@@ -1,0 +1,7 @@
+C:\VSRepositories\Ch03Ex01SRFN\bin\Debug\Ch03Ex01.exe.config
+C:\VSRepositories\Ch03Ex01SRFN\bin\Debug\Ch03Ex01.exe
+C:\VSRepositories\Ch03Ex01SRFN\bin\Debug\Ch03Ex01.pdb
+C:\VSRepositories\Ch03Ex01SRFN\obj\Debug\Ch03Ex01.csprojAssemblyReference.cache
+C:\VSRepositories\Ch03Ex01SRFN\obj\Debug\Ch03Ex01.csproj.CoreCompileInputs.cache
+C:\VSRepositories\Ch03Ex01SRFN\obj\Debug\Ch03Ex01.exe
+C:\VSRepositories\Ch03Ex01SRFN\obj\Debug\Ch03Ex01.pdb

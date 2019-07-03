@@ -10,7 +10,16 @@ namespace Ch03Ex01
     {
         static void Main(string[] args)
         {
-            //HELLO WORLD
+            int myInteger;
+            string myString;
+            myInteger = 17;
+            myString = "\"myInteger\" is";
+            Console.BackgroundColor= ConsoleColor.Red;
+            Console.Clear();
+            Console.ForegroundColor= ConsoleColor.Blue;
+            Console.WriteLine("{0} {1}.", myString, myInteger);
+            Console.ReadKey();
+            Console.BackgroundColor= ConsoleColor.Magenta;
         }
     }
 }
